@@ -2,6 +2,7 @@
   htmlTableToCsv  Copyright (C) 2016 Sikarjan
   *  This program comes with ABSOLUTELY NO WARRANTY
   *  This is free software, and you are welcome to redistribute it under certain conditions.
+  *  URL: https://github.com/Sikarjan/htmlTableToCsv/blob/master/csvExport.js
     
 To call the function from your website use something like this:
 <input type="button" value="Export result" onClick="csvTableExport(document.getElementById('resultTable'),'result')" />
